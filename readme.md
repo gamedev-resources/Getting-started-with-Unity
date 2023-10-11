@@ -1,4 +1,4 @@
-> ## View the entire tutorial on [GameDev Resources](https://gamedev-resources.com/getting-started-with-unity/).
+> View the entire tutorial on [What Up Games](https://www.whatupgames.com).
 
 # Getting started with Unity
 
